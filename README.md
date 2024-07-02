@@ -1,6 +1,6 @@
 # pepper-choregraphe-internship-start
 
-pour chorégraphe <3
+pour chorégraphe 
 
 chapeau: juste un robot qui dit merci quand on lui rend son chapeau 
 
